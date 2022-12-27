@@ -32,7 +32,7 @@ public static class EndpointConventionBuilderExtensions
     }
 
     /// <summary>
-    /// Adds marker that will cause the BFF framework will not override the HTTP response status code.
+    /// Adds marker that will cause the BFF framework to not override the HTTP response status code.
     /// </summary>
     /// <param name="builder"></param>
     /// <returns></returns>
